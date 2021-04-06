@@ -12,3 +12,5 @@ DWM 6.2
 
 - URxvt Terminal
 - Ubuntumono font
+- Need libxft-bgra from AUR
+-- Comment out code by "iscol" variable in drw.c
